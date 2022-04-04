@@ -1,4 +1,4 @@
-- 👋 OLá, meu nome é Gabriel
+- 👋 Olá, meu nome é Gabriel
 - :+1: Meu e-mail de contato é: gabrielluiznardi.23@gmail.com
 - 🌱 Eu estou interessado em aprender a programar novas linguagens.
 - 💞️ No momento eu estou aprendendo a utilizar JavaScript e Scratch.
